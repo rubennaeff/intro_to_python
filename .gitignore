@@ -61,5 +61,8 @@ target/
 #Ipython Notebook
 .ipynb_checkpoints
 
-# Ruben's hidden stuff
+# Ruben's stuff
 _*/
+tweets/
+
+
