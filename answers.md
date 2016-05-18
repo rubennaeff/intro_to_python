@@ -63,7 +63,7 @@ In Python 3, we have:
 0.6
 
 >>> 3 // 5  # integer division
-0.6
+0
 ```
 
 - What is 2 to the power 4? (Hint: `**`)
