@@ -23,7 +23,7 @@ pip install Flask
 
 ### Hello World
 
-The first example is [hello_world.py](./01_hello_world/hello_world.py). It's only a few lines of code:
+The first example is [hello_world.py](./1_hello_world/hello_world.py). It's only a few lines of code:
 
 ```python
 from flask import Flask
@@ -53,7 +53,7 @@ Please refer to the [Quickstart](http://flask.pocoo.org/docs/0.10/quickstart/#qu
 
 ### Displaying Tweets
 
-The second example is a [website displaying tweets](./02_twitter/main.py). Please take your time going through the different files and the lines of code.
+The second example is a [website displaying tweets](./2_twitter/main.py). Please take your time going through the different files and the lines of code.
 
 ```sh
 main.py  # the python code using Flask

@@ -1,4 +1,4 @@
-# intro_to_python
+# Introduction to Python Programming
 Three-hour python workshop for beginners
 
 
@@ -12,7 +12,7 @@ Three-hour python workshop for beginners
 - [Hello, world!](./hello) Scripting
   - [hello.py](./hello/hello.py) One-line python script
   - [hello_world.py](./hello/hello_world.py) Same python script following good practice style guide
-  - [meet_world.py](./hello/hello_world.py) More functions: `hello()`, and `bye()`
+  - [meet_world.py](./hello/meet_world.py) More functions: `hello()`, and `bye()`
   - [world_import.py](./hello/world_import.py) Similar script using `import`
 
 - [IPython notebooks](./notebooks)
