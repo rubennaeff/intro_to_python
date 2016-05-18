@@ -45,14 +45,15 @@ _Source: [GitHub Mason Gallo](https://github.com/MasonGallo/intro-python)_
 - (*) Create the same string `full_name` directly from the list `names`, using the string method `.join()`.
 
 
-
-
-
 ### Typing
 
 - Find out the types of the following constants: `8`, `8.`, `"Python"`, `'c'`, `True`, `[1, 2, "three"]`, `{1: 10, 2:20}`, `{1, 2}`, `None`.
-- Try to convert the above constants to string using `str()`.
-- Try to convert the above constants to string using `str()`.
+- Try to convert the above constants to strings using `str()`.
+- Try to convert the above constants to other types, using `int()` and `float()`
+- Is this true for each integer `x`: `x == int(str(x))`?
+- Is the following True or False? `8 == 8.0`
+- Try `bool()` on a few of the above constants, and try such values as `0`, `1`, `2`, `1.23`, `-1`, `"True"`, `"False"`, `""`, and `[]`. What is the logic?
+- Is this true for each boolean `x`: `x == bool(str(x))`?
 
 
 
@@ -63,12 +64,4 @@ _Source: [GitHub Mason Gallo](https://github.com/MasonGallo/intro-python)_
 - If you haven't done already, make sure both files have doc strings, and place comments where you think it will help.
 - (*) Add the line `#!/usr/bin/env python` on top of `be_sweet_to_me.py`, and change the execution permissions using `chmod 750 be_sweet_to_me.py`. Now you should be able to run your file by typing `./be_sweet_to_me.py`.
 
-
-
-## Scripting
-
-- Create a file `happiness.py` that contains a function that will print something sweet.
-- Create another file `be_sweet_to_me.py` that imports and calls the above function each time it is run from the command line, using ```python be_sweet_to_me.py```.
-- If you haven't done already, make sure both files have doc strings, and place comments where you think it will help.
-- (*) Add the line `#!/usr/bin/env python` on top of `be_sweet_to_me.py`, and change the execution permissions using `chmod 750 be_sweet_to_me.py`. Now you should be able to run your file by typing `./be_sweet_to_me.py`.
 
